@@ -1,3 +1,5 @@
 - Built a multiple linear regression model to predict individual medical expenses based on features such as age, BMI, smoking status, and region.
 - Performed EDA and feature engineering using Scikit-learn and statsmodels to improve model accuracy.
 - Achieved a model R² score of 0.79 and interpreted coefficients to assess variable importance.
+- Analyzed the impact of COVID-19 on Nifty 50 sectoral indices using historical data from NSE.
+ - Applied time-series analysis to study price volatility, drawdowns, and sector-wise recovery trends.
