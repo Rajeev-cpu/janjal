@@ -1,1 +1,3 @@
-# janjal
+Built a multiple linear regression model to predict individual medical expenses based on features such as age, BMI, smoking status, and region.
+Performed EDA and feature engineering using Scikit-learn and statsmodels to improve model accuracy.
+Achieved a model R² score of 0.79 and interpreted coefficients to assess variable importance.
